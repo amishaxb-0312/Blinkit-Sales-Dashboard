@@ -2,19 +2,19 @@
 An interactive Power BI Dashboard built using Blinkit Grocery Sales Data.The Dashboard provides insights into sales performance, customer ratings, outlet characteristics, product categories to support data-driven business actions.
 
 # Tools & Technologies Used:
-• 📊 Power BI Desktop – Main data visualization platform used for report creation.
-• 📂 Power Query – Data transformation for reshaping and preparing the data.
-• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
-• 📁 File Format – .pbix for development and .png for dashboard previews.
+1.📊 Power BI Desktop – Main data visualization platform used for report creation.
+2.📂 Power Query – Data transformation for reshaping and preparing the data.
+3.🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+4.📁 File Format – .pbix for development and .png for dashboard previews.
 
 # DataSet
 BlinkIT Grocery Data.xlsx
 
 # Key KPIs
-Total Sales : The Overall revenue generated from all the items sold.
-Average Sales : The average revenue per sales.
-Number Of Items : The total count of different items sold.
-Average Rating : The average customer rating for items sold.
+1. Total Sales : The Overall revenue generated from all the items sold.
+2. Average Sales : The average revenue per sales.
+3. Number Of Items : The total count of different items sold.
+4. Average Rating : The average customer rating for items sold.
 
 # Charts & Visuals
 Total Sales by Fat Content - Donut Chart
