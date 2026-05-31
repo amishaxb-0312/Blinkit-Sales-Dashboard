@@ -18,11 +18,17 @@ BlinkIT Grocery Data.xlsx
 
 # Charts & Visuals
 Total Sales by Fat Content - Donut Chart
+
 Total Sales By Item Type - Bar Chart
+
 Fat Content by Outlet For Total Sales - Stacked Column Chart
+
 Total Sales by Outlet Establishment - Line Chart
+
 Sales By Outlet Size - Donut/Pie Chart
+
 Sales By Outlet Location - Funnel Map
+
 All Matrices by Outlet Type
 
 # Insights Generated
